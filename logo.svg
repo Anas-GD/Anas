@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 23" width="102" height="23">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 30px;fill: #ffffff;font-weight: 400;font-family: "NotoSerifSinhala-Regular", "Noto Serif Sinhala" } 
+	</style>
+	<text id="ANAS" style="transform: matrix(1,0,0,1,11,22)" >
+		<tspan x="0" y="0" class="t0">A</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>
